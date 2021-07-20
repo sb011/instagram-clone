@@ -1,12 +1,12 @@
 # insta-clone
 
 for start the website use this cmd
-1. first command prompt
+1. for back-end
 ```
 npm run dev
 ```
 
-2. second command prompt
+2. for front-end
 ```
 cd client
 npm start
