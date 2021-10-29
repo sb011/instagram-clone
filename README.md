@@ -10,5 +10,8 @@ npm run dev
 2. for front-end
 ```
 cd client
+```
+
+```
 npm start
 ```
