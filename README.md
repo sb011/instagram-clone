@@ -20,16 +20,19 @@ media, which other users can like, comment, share and save it.
 
 ## Getting started
 Follow these steps to run this project in your local computer.
-1. Clone Repository
+1. Clone Backend Repository
 ```
 git clone https://github.com/sb011/instagram-clone.git
 ```
-2. start back-end
+2. Clone Frontend Repository
+```
+git clone -b master https://github.com/sb011/instagram-clone.git
+```
+3. To start back-end
 ```
 nodemon server.js
 ```
-
-2. start front-end
+4. To start front-end
 ```
 cd client
 npm start
