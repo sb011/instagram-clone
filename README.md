@@ -29,6 +29,7 @@ git clone https://github.com/sb011/instagram-clone.git
 git clone -b master https://github.com/sb011/instagram-clone.git
 ```
 Clone frontend in Client folder
+<br />
 3. To start back-end
 ```
 nodemon server.js
