@@ -40,6 +40,9 @@ cd client
 npm start
 ```
 
+## Video :
+[Video](https://drive.google.com/file/d/1drtIZci8A54coOw6SQQKTL5PaE0VeVVl/view?usp=share_link)
+
 ## Screenshots :
 <p align="center">
 <img src="https://user-images.githubusercontent.com/71833071/208239316-7f1aad5d-ddd0-41d9-bdc4-8a3dfe60c955.png" width="300" >
